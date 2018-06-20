@@ -35,4 +35,9 @@ p{
 }
 .footer{
   text-align: left;
+  color: white;
+  background-color: dimgrey;
+}
+.footer p{
+  font-size: 11px;
 }
